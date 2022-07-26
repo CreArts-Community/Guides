@@ -23,7 +23,7 @@
 <kbd>[<img title="Spanish" alt="Spanish" src="https://crearts-community.github.io/Assets/languages/spanish.png" width="40">](.github/docs/translations/readme/spanish.md)</kbd>
 <kbd>[<img title="Swedish" alt="Swedish" src="https://crearts-community.github.io/Assets/languages/swedish.png" width="40">](.github/docs/translations/readme/swedish.md)</kbd>
 
-
+![guides](https://user-images.githubusercontent.com/58918358/180920031-df5b26a5-90c8-412b-ae98-03b8f8a5be27.png)
 
 # Guides
 
