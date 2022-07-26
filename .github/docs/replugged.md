@@ -1,4 +1,8 @@
+![replugged](https://user-images.githubusercontent.com/58918358/180917129-2a6d2a01-5ee8-48c5-a12f-505ef9382927.png)
+
 # Replugged
+[![Discord](https://img.shields.io/discord/534376415202639903?label=Discord&labelColor=2e343e&color=%23CD0952&style=for-the-badge)](https://discord.gg/8W8E39Z)
+[![Paypal](https://img.shields.io/badge/Donate-PayPal-blue?&labelColor=2e343e&color=%23CD0952&style=for-the-badge)](https://www.paypal.com/donate/?hosted_button_id=5MQYGQ2FGQDWJ)
 
 This guide describes how you can install [Replugged](https://github.com/replugged-org/replugged) on [Discord](https://discord.com/) Canary. This guide is for the Windows operating system.
 
