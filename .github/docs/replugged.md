@@ -46,4 +46,4 @@ If you want to remove Replugged again, you can do it this way.
 
 # Support
 
-If you need some help join our [creative community](https://discord.gg/8W8E39Z), or join the official Replugged support server. 
+If you need some help join our creative community [CreArts](https://discord.gg/8W8E39Z), or join the official [Replugged](https://discord.gg/3hmBrW72qd) support server. 
